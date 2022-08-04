@@ -1,0 +1,31 @@
+.payment__section{
+    display: flex;
+    border-bottom: 1px solid lightgray;
+    padding: 15px;
+    background-color: white;
+
+}
+
+.payment__heading{
+    font-weight: 600;
+    text-align: center;
+    padding: 10px;
+    
+}
+
+.payment__heading a{
+    text-decoration: none;
+    color: green;
+}
+
+.payment__heading a:focus{
+    color: orange;
+}
+
+.payment__title{
+    margin-right: 120px;
+}
+
+.payment__cardDetails{
+    flex: 0.8;
+}

@@ -1,0 +1,17 @@
+.order{
+    background-color: white;
+    width: 75%;
+    margin: auto;
+    padding: 25px;
+    padding-bottom: 60px;
+    margin-top: 30px;
+    position: relative;
+}
+.order >h3{
+    position: absolute;
+    right: 45px;
+    font-weight: 600;
+    bottom: 10px;
+    
+
+}
